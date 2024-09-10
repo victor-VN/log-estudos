@@ -6,16 +6,12 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 
 ---
 
-### Básico de Programação
+### Aws e Azure (Cloud)
 
-| Link | Nota | Nível | Tipo |
-|------|------|-----------|--------|
-| [Curso de Lógica de Programação - Gustavo Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=cmG98yjSP270oCpS)      |  :star::star::star::star::star:    |  Iniciante       | Curso |
-| [AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)     |  :star::star::star::star::star:    |     Iniciante/Intermediário      | Curso | 
-|  [Curso Básico de Java - Loiane](https://loiane.training/curso/java-basico)    |  :star::star::star::star:    |     Iniciante/Intermediário      | Curso |
-|   [Curso de Java para Iniciantes - Grátis, Completo e com Certificado - Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&si=ot_KZhEDKltyCEZe)   | :star::star::star::star:     |    Iniciante/Intermediário       | Curso
-|    [Curso de HTML5 Completo e GRÁTIS](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=-xh50hZNNkcOJ-XM)  |   :star::star::star::star:   |     Iniciante      | Curso |
-
+| Link | Nota | Nível | Tipo | Cloud Provider |
+|------|------|-----------|--|----------------|
+| [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Souza](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=NN6Td9H-Db3IIi-H)     |  :star::star::star::star::star:    |    Básico      | Curso | Azure |
+| [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T4MT90924B) | :star::star::star::star::star: | Básico | Curso | AWS |
 
 ### Java e Spring Framework
 
@@ -35,12 +31,15 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 |  [JDBC - a short guide](https://www.marcobehler.com/guides/jdbc)    |   :star::star::star::star::star:   |    Avançado       | Artigo |
 |   [Java & Databases: An Overview of Libraries & APIs](https://www.marcobehler.com/guides/java-databases)   |  :star::star::star::star::star:    |   Avançado        | Artigo  |
 
-### Aws e Azure (Cloud)
+### Básico de Programação
 
-| Link | Nota | Nível | Tipo | Cloud Provider |
-|------|------|-----------|--|----------------|
-| [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Souza](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=NN6Td9H-Db3IIi-H)     |  :star::star::star::star::star:    |    Básico      | Curso | Azure |
-| [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T4MT90924B) | :star::star::star::star::star: | Básico | Curso | AWS |
+| Link | Nota | Nível | Tipo |
+|------|------|-----------|--------|
+| [Curso de Lógica de Programação - Gustavo Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=cmG98yjSP270oCpS)      |  :star::star::star::star::star:    |  Iniciante       | Curso |
+| [AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)     |  :star::star::star::star::star:    |     Iniciante/Intermediário      | Curso | 
+|  [Curso Básico de Java - Loiane](https://loiane.training/curso/java-basico)    |  :star::star::star::star:    |     Iniciante/Intermediário      | Curso |
+|   [Curso de Java para Iniciantes - Grátis, Completo e com Certificado - Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&si=ot_KZhEDKltyCEZe)   | :star::star::star::star:     |    Iniciante/Intermediário       | Curso
+|    [Curso de HTML5 Completo e GRÁTIS](https://youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&si=-xh50hZNNkcOJ-XM)  |   :star::star::star::star:   |     Iniciante      | Curso |
 
 
 
