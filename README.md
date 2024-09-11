@@ -8,14 +8,15 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 
 ### Aws e Azure (Cloud)
 
-| Link | Nota | Nível | Tipo | Cloud Provider |
+| Link | Avaliação | Nível | Tipo | Cloud Provider |
 |------|------|-----------|--|----------------|
 | [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Souza](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=NN6Td9H-Db3IIi-H)     |  :star::star::star::star::star:    |    Básico      | Curso | Azure |
 | [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T4MT90924B) | :star::star::star::star::star: | Básico | Curso | AWS |
+| [Practice for the exam - Simulado AZ-900 Gratuito da Microsoft](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals//?practice-assessment-type=certification#certification-practice-for-the-exam) | :star::star::star::star::star: | Intermediário | Exame | Azure |
 
 ### Java e Spring Framework
 
-| Link | Nota | Nível | Tipo |
+| Link | Avaliação | Nível | Tipo |
 |------|------|-----------|------|
 | [Java 8 in Action](https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994)     |  :star::star::star::star::star:    |   Intermediário/Avançado        |   Livro   |
 |  [Spring Boot 3, Spring 6 & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial/?couponCode=24T4MT90924B)    |   :star::star::star::star::star:    |   Intermediário/Avançado        |  Curso    |
@@ -25,7 +26,7 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 
 ### Banco de Dados
 
-| Link | Nota | Nível | Tipo |
+| Link | Avaliação | Nível | Tipo |
 |------|------|-----------|--|
 | [Learning SQL: Master SQL Fundamentals](https://www.amazon.com.br/Learning-SQL-Alan-Beaulieu/dp/0596520832)     |  :star::star::star::star::star:    |    Intermediário/Avançado       | Livro |
 |  [JDBC - a short guide](https://www.marcobehler.com/guides/jdbc)    |   :star::star::star::star::star:   |    Avançado       | Artigo |
@@ -33,7 +34,7 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 
 ### Básico de Programação
 
-| Link | Nota | Nível | Tipo |
+| Link | Avaliação | Nível | Tipo |
 |------|------|-----------|--------|
 | [Curso de Lógica de Programação - Gustavo Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV&si=cmG98yjSP270oCpS)      |  :star::star::star::star::star:    |  Iniciante       | Curso |
 | [AP®︎/College Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles)     |  :star::star::star::star::star:    |     Iniciante/Intermediário      | Curso | 
