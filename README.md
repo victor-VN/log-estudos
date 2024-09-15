@@ -13,6 +13,7 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 | [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Souza](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=NN6Td9H-Db3IIi-H)     |  :star::star::star::star::star:    |    Básico      | Curso | Azure |
 | [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T4MT90924B) | :star::star::star::star::star: | Básico | Curso | AWS |
 | [Practice for the exam - Simulado AZ-900 Gratuito da Microsoft](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals//?practice-assessment-type=certification#certification-practice-for-the-exam) | :star::star::star::star::star: | Intermediário | Exame | Azure |
+| :new: [Microsoft AZ-900 Exam Actual Questions - Simulado](https://www.examtopics.com/exams/microsoft/az-900/view/) | :star::star::star::star::star: | Intermediário | Exame | Azure |
 
 ### Java e Spring Framework
 
