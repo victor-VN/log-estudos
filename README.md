@@ -9,10 +9,13 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 
 | Link | Nível | Tipo | Cloud Provider |
 |------|-----------|------|----------------|
-| [AZ-900 - Curso Oficial Microsoft - Microsoft Azure Fundamentals - Henrique Souza](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=NN6Td9H-Db3IIi-H) | Básico | Curso | Azure |
+| [AZ-900 - Microsoft Azure Fundamentals - Henrique Souza](https://youtube.com/playlist?list=PL_yq9hmeKAk_rUvgo0KECZYI1bKzcyncC&si=NN6Td9H-Db3IIi-H) | Básico | Curso | Azure |
 | [Ultimate AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?couponCode=24T4MT90924B) | Básico | Curso | AWS |
 | [Practice for the exam - Simulado AZ-900 Gratuito da Microsoft](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals//?practice-assessment-type=certification#certification-practice-for-the-exam) | Intermediário | Exame | Azure |
-| :new: [Microsoft AZ-900 Exam Actual Questions - Simulado](https://www.examtopics.com/exams/microsoft/az-900/view/) | Intermediário | Exame | Azure |
+| [Microsoft AZ-900 Exam Questions - Simulado](https://www.examtopics.com/exams/microsoft/az-900/view/) | Intermediário | Exame | Azure |
+| :new: [DP-900 - Microsoft Data Fundamentals - Henrique Souza](https://www.youtube.com/watch?v=Fqzx_87pFCg&list=PL_yq9hmeKAk9hc_FGAKHl-hI66GRjLa4P) | Intermediário | Curso | Azure |
+| :new: [Microsoft DP-900 Exam Actual Questions - Simulado](https://www.examtopics.com/exams/microsoft/dp-900/view/) | Intermediário | Exame | Azure |
+| :new: [Microsoft DP-900 Self Paced Oficial Cours](https://learn.microsoft.com/en-us/training/courses/az-900t00) | Intermediário | Curso | Azure |
 
 ### Java e Spring Framework
 
@@ -36,7 +39,7 @@ Criei este repositório para compartilhar de forma estruturada os materiais de e
 
 | Link | Nível | Tipo |
 |------|------|------|
-| :new: [Toward a Definition of Cognitive-Driven Development](https://ieeexplore.ieee.org/abstract/document/9240662) | Intermediário/Avançado | Artigo |
+| [Toward a Definition of Cognitive-Driven Development](https://ieeexplore.ieee.org/abstract/document/9240662) | Intermediário/Avançado | Artigo |
 
 ### Básico de Programação
 
