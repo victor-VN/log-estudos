@@ -5,6 +5,12 @@
 Criei este repositório para compartilhar de forma estruturada os materiais de estudo que uso (ou já usei) e que me ajudaram a evoluir profissionalmente.
 
 ---
+### Algoritmos e Estruturas de Dados
+
+| Link | Nível | Tipo |
+|------|-----------|------|
+| [Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos](https://www.amazon.com.br/dp/8575225634?ref=cm_sw_r_ffobk_cso_wa_apan_dp_VPG54T41RJ845BBAE1AQ&ref_=cm_sw_r_ffobk_cso_wa_apan_dp_VPG54T41RJ845BBAE1AQ&social_share=cm_sw_r_ffobk_cso_wa_apan_dp_VPG54T41RJ845BBAE1AQ&starsLeft=1&bestFormat=true) | Básico | Livro |
+
 ### Aws e Azure (Cloud)
 
 | Link | Nível | Tipo | Cloud Provider |
